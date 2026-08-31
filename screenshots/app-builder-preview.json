@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nomenavis",
+      "hasCanvas": true,
+      "bodyTextLen": 80,
+      "bodyTextHash": "21a40a6e89bc6350c22122321ab560e467c5d363359a3ae035c9f32fe493eeda",
+      "bodyTextPrefix": "NOMEN · NAVIS Nomenavis Digite o nome. Destrua a nave. Jogar Rec",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nomenavis",
+      "hasCanvas": true,
+      "bodyTextLen": 80,
+      "bodyTextHash": "21a40a6e89bc6350c22122321ab560e467c5d363359a3ae035c9f32fe493eeda",
+      "bodyTextPrefix": "NOMEN · NAVIS Nomenavis Digite o nome. Destrua a nave. Jogar Rec",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
